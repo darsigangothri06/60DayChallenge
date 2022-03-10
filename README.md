@@ -1,2 +1,2 @@
-# 60Day_Challenge
+# *60DayChallenge*
 Learning New Algorithms and Solving Medium Problems
