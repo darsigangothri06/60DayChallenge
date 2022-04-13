@@ -1,0 +1,1 @@
+return (high - low)//2 + high % 2 + low % 2 - (high % 2 and low % 2)
