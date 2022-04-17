@@ -1,2 +1,2 @@
 # *60DayChallenge*
-*Programs are from LeetCode
+Programs are from LeetCode
